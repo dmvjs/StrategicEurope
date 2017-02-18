@@ -250,7 +250,7 @@ header .story .back .arrow {
     float: left;
     display: inline-block;
     background-image: url('../img/back-arrow.png');
-    background-position: left;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: auto 44px;
 }
